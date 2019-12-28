@@ -1,0 +1,12 @@
+test3
+this is a drill
+it has four lines
+Finding your local IP 
+address is really easy. 
+Head to the Apple menu > 
+System Preferences > Network 
+and then select the connection 
+you are currently using: AirPort
+(wireless) or Ethernet (wired). If your Mac is connected 
+(Status: Connected) then your local IP address will 
+appear on the top right corner of the menu
